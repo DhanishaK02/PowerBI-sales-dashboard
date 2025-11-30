@@ -1,5 +1,3 @@
-# PowerBI-sales-dashboard
-Interactive sales analysis dashboard built in Power BI.
 # Sales Analysis Dashboard – Power BI
 
 This is my first interactive **Sales Analysis Dashboard** built using **Power BI**.
