@@ -34,7 +34,7 @@ The dashboard helps analyze:
 
 ## 📸 Dashboard Preview
 
-![Dashboard Overview](dashboard_overview.png)
+![Dashboard Overview](sales_PowerBI2.png)
 
 ---
 
